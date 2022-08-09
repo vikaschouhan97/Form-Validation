@@ -1,7 +1,17 @@
-.container{
-  margin: 100px auto;
- }
+.container {
+	margin-top: 30px;
+}
+
 .registration-form {
-margin: 100px auto;
+	width: 900px;
+  margin: auto;
+}
+
+.title {
+	text-align: center;
+}
+
+.submit-btn {
+	text-align: center;
 }
 
